@@ -91,3 +91,10 @@ button{
   color: #ffffff;
   border:none;
 }
+
+.warning{
+  color: red;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+  font-size: small;
+}
