@@ -98,3 +98,23 @@ button{
   font-weight: 600;
   font-size: small;
 }
+
+.logout-layout{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+.logout-button{
+  margin-top: 1rem;
+  width: 8rem;
+  height: 2rem;
+  border: 2px solid lightblue;
+  background-color: white;
+  color: lightblue;
+}
+
+.logout-button:hover {
+  background-color: lightblue;
+  color: white;
+}
